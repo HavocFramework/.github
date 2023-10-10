@@ -5,3 +5,4 @@
 | [PyHmmm](https://github.com/CodeXTF2/PyHmmm) | Any (with python) | HTTP | shell | Python | ✅
 | [SharpAgent](https://github.com/susMdT/SharpAgent/)| Windows | HTTP | shell | C# | ✅
 | [Revenant](https://github.com/0xTriboulet/Revenant/)| Windows | HTTP/s | pwsh, shell, download, upload, exit | C | ✅
+| [Shaco](https://github.com/souzomain/Shaco/)| Linux | HTTP | shell, download, upload, sleep, jitter, exit | C | ✅
